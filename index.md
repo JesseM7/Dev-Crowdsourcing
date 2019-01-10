@@ -1,34 +1,3 @@
-<!-- Header -->
-				<header id="header">
-						<ul>
-							<li><a href="Featured.md">Featured</a></li>
-							
-
-							<li><a href="register.html" class="button special">REGISTER</a></li>
-						</ul>
-					</nav>
-			</header>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Welcome to GitHub Pages
