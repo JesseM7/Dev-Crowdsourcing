@@ -1,3 +1,36 @@
+<!-- Header -->
+				<header id="header">
+						<ul>
+							<li><a href="Featured.md">Featured</a></li>
+							
+
+							<li><a href="register.html" class="button special">REGISTER</a></li>
+						</ul>
+					</nav>
+			</header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JesseM7/Dev-Crowdsourcing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
