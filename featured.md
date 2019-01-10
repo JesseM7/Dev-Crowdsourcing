@@ -1,2 +1,2 @@
-title: Featured Developments
+**Featured Developments**
 
